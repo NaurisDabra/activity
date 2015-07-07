@@ -80,8 +80,8 @@ public class PlayingCard {
 
 		//TODO #3: Make an instance of JOKER playing card
 		// Assign instance variable to a JOKER value
-		this.number=JOKER;
-		this.suit=JOKER;
+		this.number=this.suit=JOKER;
+		
 		//END TODO #3
 		
 		
